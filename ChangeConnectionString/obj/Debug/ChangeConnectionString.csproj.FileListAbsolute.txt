@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\ChangeConnectionString\ChangeConnectionString\bin\Debug\ChangeConnectionString.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ChangeConnectionString\ChangeConnectionString\obj\Debug\ChangeConnectionString.csprojResolveAssemblyReference.cache
+c:\Users\User\Documents\Visual Studio 2015\Projects\ChangeConnectionString\ChangeConnectionString\bin\Debug\ChangeConnectionString.exe
+c:\Users\User\Documents\Visual Studio 2015\Projects\ChangeConnectionString\ChangeConnectionString\bin\Debug\ChangeConnectionString.pdb
+c:\Users\User\Documents\Visual Studio 2015\Projects\ChangeConnectionString\ChangeConnectionString\bin\Debug\EntityFramework.dll
+c:\Users\User\Documents\Visual Studio 2015\Projects\ChangeConnectionString\ChangeConnectionString\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\User\Documents\Visual Studio 2015\Projects\ChangeConnectionString\ChangeConnectionString\bin\Debug\EntityFramework.xml
+c:\Users\User\Documents\Visual Studio 2015\Projects\ChangeConnectionString\ChangeConnectionString\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\User\Documents\Visual Studio 2015\Projects\ChangeConnectionString\ChangeConnectionString\obj\Debug\ChangeConnectionString.exe
+c:\Users\User\Documents\Visual Studio 2015\Projects\ChangeConnectionString\ChangeConnectionString\obj\Debug\ChangeConnectionString.pdb
+C:\Users\User\documents\visual studio 2015\Projects\ChangeConnectionString\ChangeConnectionString\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\documents\visual studio 2015\Projects\ChangeConnectionString\ChangeConnectionString\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
